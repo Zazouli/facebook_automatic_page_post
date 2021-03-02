@@ -1,0 +1,16 @@
+.vs/
+
+lamae.dependency.injection/bin/*
+lamae.dependency.injection/obj/*
+lamae.dependency.injection/log4net.config
+
+lamar.dependecy.injection.domain/bin/*
+lamar.dependecy.injection.domain/obj/*
+
+lamar.dependecy.injection.infrastructor/bin/*
+lamar.dependecy.injection.infrastructor/obj/*
+
+
+LoggingFile/*
+
+
